@@ -54,6 +54,10 @@
   </tbody>
 </table>
 
+If you like my work and want to support me, you can [sponsor me on GitHub](https://github.com/sponsors/)
+
+<a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/h" /></a>
+
 ### My toolbox
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
