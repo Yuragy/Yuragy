@@ -11,6 +11,16 @@
   <b><i>Beneath this mask there is more than flesh.  
   Beneath this mask there is an idea.</i></b>
 </p>
+
+<p align="center">
+  <img alt="Red Team" src="https://img.shields.io/badge/Focus-Red_Team-red?style=flat-square" />
+  <img alt="EDR Bypass" src="https://img.shields.io/badge/Skill-EDR_Bypass-brightgreen?style=flat-square" />
+  <img alt="Rootkits" src="https://img.shields.io/badge/Skill-Rootkits-blue?style=flat-square" />
+  <img alt="Direct Syscalls" src="https://img.shields.io/badge/Tech-Direct_Syscalls-orange?style=flat-square" />
+  <img alt="HVNC" src="https://img.shields.io/badge/Tech-HVNC-8A2BE2?style=flat-square" />
+  <img alt="Spyware" src="https://img.shields.io/badge/Tech-Spyware-black?style=flat-square" />
+</p>
+
 <table>
   <thead align="center">
     <tr border: none;>
