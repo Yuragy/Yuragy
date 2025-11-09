@@ -6,10 +6,12 @@
 <p align="center">
   <span style="font-size: 120px; font-weight: 900; line-height: 1;">V</span>
 </p>
-
 <p align="center">
-  <b><i>Beneath this mask there is more than flesh.  
-  Beneath this mask there is an idea.</i></b>
+  <b><i>Beneath this mask there is more than flesh.<br>
+  Beneath this mask there is an idea — <b>and ideas are bulletproof</b>.</i></b>
+</p>
+<p align="center">
+  <sub><b>I do not write malware. I am just a writer.</b></sub>
 </p>
 
 <p align="center">
