@@ -74,7 +74,7 @@
   </tbody>
 </table>
 
-> **Important**: All tools are for authorized security testing and educational purposes only. Do not use on systems you don't own or don't have explicit permission to test.
+> **Important**: 
 > 
 If you like my work and want to support me, you can [sponsor me on GitHub](https://github.com/sponsors/)
 
