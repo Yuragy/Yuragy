@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="http://127.0.0.1" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
-  <a href="https://x.com/vvswift" target="_blank"><img alt="Xwitter" src="https://img.shields.io/badge/Xwitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+
 </p>
 <p align="center">
   <span style="font-size: 120px; font-weight: 900; line-height: 1;">V</span>
