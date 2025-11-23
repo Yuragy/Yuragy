@@ -12,8 +12,8 @@
   <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Red_Team-red?style=flat-square" />
   <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Thread Hunter-brightgreen?style=flat-square" />
   <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Linux Enthusiast-blue?style=flat-square" />
-  <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Networking Basics-8A2BE2?style=flat-square" />
-  <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Researcher-black?style=flat-square" />
+  <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Reverse Engineering-8A2BE2?style=flat-square" />
+  <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Exploit Research-black?style=flat-square" />
 </p>
 <table>
   <thead align="center">
