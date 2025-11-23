@@ -12,7 +12,7 @@
   <img alt="Red Team" src="https://img.shields.io/badge/Red_Team-red?style=flat-square" />
   <img alt="EDR Bypass" src="https://img.shields.io/badge/EDR_Bypass-brightgreen?style=flat-square" />
   <img alt="Rootkits" src="https://img.shields.io/badge/Linux Enthusiast-blue?style=flat-square" />
-  <img alt="HVNC" src="https://img.shields.io/badge/HVNC-8A2BE2?style=flat-square" />
+  <img alt="HVNC" src="https://img.shields.io/badge/Networking Basics-8A2BE2?style=flat-square" />
   <img alt="Spyware" src="https://img.shields.io/badge/Spyware-black?style=flat-square" />
 </p>
 <table>
