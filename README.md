@@ -50,7 +50,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/blackbox-ave?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/vvswift/Keylogger_Win64"><b>Keylogger_Win64</b></a> — Stealth Win64 keylogger that logs keyboard input, chat messages, URLs, passwords, and clipboard data using low-level Windows APIs, with no external dependencies, anti-debugging features, and encrypted log transmission for covert monitoring.</td>
+      <td><a href="https://github.com/vvswift/RedTeam-Arsenal"><b>RedTeam-Arsena</b></a> — curated collection of tools, scripts, and techniques for simulating adversarial activities and conducting security assessments, including beacons, C2 configurations, scripting, payload creation, and analysis tools for improving defensive strategies through research.</td>
       <td><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/vvswift/Keylogger_Win64?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/Keylogger_Win64?style=flat-square&labelColor=343b41"/></td>
