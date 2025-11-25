@@ -51,9 +51,9 @@
     </tr>
     <tr>
       <td><a href="https://github.com/vvswift/RedTeam-Arsenal"><b>RedTeam-Arsena</b></a> — curated collection of tools, scripts, and techniques for simulating adversarial activities and conducting security assessments, including beacons, C2 configurations, scripting, payload creation, and analysis tools for improving defensive strategies through research.</td>
-      <td><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/vvswift/Keylogger_Win64?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/Keylogger_Win64?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="C" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/vvswift/RedTeam-Arsenal?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/RedTeam-Arsenal?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/vvswift/Chrome-extension-installer"><b>Chrome-extension-installer</b></a> — Chromium extension loader with command support for system control, integrated with two Node.js servers for C2 operations, enabling browser-based persistence, data exfiltration, and remote command execution in web environments.</td>
